@@ -1,1 +1,1 @@
-<a>Submit</a>
+<button>Submit</button>
